@@ -1,0 +1,32 @@
+.banner-1{
+    background-image: url(../images/gradient.png), url(../images/banner-1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 560px;
+    border-radius: 8px;  
+}
+.carousel-1{
+    background-image: url(../images/opacity-image.png), url(../images/banner-1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 540px;
+    border-radius: 8px;
+}
+.carousel-2{
+    background-image: url(../images/opacity-image.png), url(../images/banner-2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 540px;
+    border-radius: 8px;
+}
+.carousel-3{
+    background-image: url(../images/opacity-image.png), url(../images/banner-3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 540px;
+    border-radius: 8px;
+}
